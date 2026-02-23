@@ -1,4 +1,10 @@
-Step 1: Get Composer
+## run this command before anything
+
+```
+rm -rf .git
+```
+
+## Step 1: Get Composer
 
 Open a terminal and run these two commands:
 
