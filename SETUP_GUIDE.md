@@ -1,10 +1,4 @@
-# How to Run This Project on Your PC
-
-## Requirements
-- XAMPP installed (download from https://www.apachefriends.org)
-- Composer (will be installed in the steps below)
-
-## Step 1: Get Composer
+Step 1: Get Composer
 
 Open a terminal and run these two commands:
 
@@ -57,15 +51,3 @@ C:\xampp\php\php.exe artisan serve
 ```
 
 Now open `http://localhost:8000` in your browser.
-
-## Step 7: Using the App
-
-1. Click "Register" and create an account
-2. After registering you will be logged in automatically
-3. Click "Create Poll" to make a new poll
-4. Go to "Dashboard" to see all active polls
-5. Click on any poll to see its options (loads without page refresh)
-
-## Troubleshooting
-
-If you get an error about "directory must be present and writable" then do NOT put the project inside a OneDrive folder. Move it to a normal folder like `C:\Projects\module 1` instead.
